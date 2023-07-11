@@ -1,5 +1,4 @@
-# house-price-prediction-kaggle
-Machine learning regression project with the famous Ames Housing Dataset
+# •	Previsão do preço de imóveis com Machine Learning
 
 ## TL;DR
 Esse desafio consiste em criar um modelo de Machine Learning que preveja o preço de casas na cidade de Ames, Iowa, baseado em dezenas de características que temos disponíveis.
